@@ -1,0 +1,4 @@
+EXTRA_CFLAGS = -g
+# TODO: add flags to generate debug information
+
+obj-m = oops_mod.o
